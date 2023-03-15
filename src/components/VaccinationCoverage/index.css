@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.bar {
+  border-top: 5px;
+}
+
+.vaccination-coverage-bg {
+  background-color: #1c1c2b;
+  width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  margin-bottom: 20px;
+}

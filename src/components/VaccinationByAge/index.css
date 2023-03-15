@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.legend {
+  margin-top: 50px;
+  background-color: bisque;
+}
+
+.chart {
+  height: 500px;
+}
+
+.chart-heading {
+  color: white;
+}

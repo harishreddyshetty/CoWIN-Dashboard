@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.covid-dashboard-bg {
+  background-color: #161625;
+  padding: 5px;
+  min-height: 100vh;
+}
+
+.covid-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.websiteLogo {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-left: 130px;
+}
+
+.page-name {
+  color: white;
+}
+
+.heading {
+  margin-left: 130px;
+  color: white;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
